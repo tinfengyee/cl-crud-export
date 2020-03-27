@@ -35,7 +35,7 @@ npm i cl-crud-export
 
 import Vue from 'vue'
 import crud from 'cl-crud'
-import ExportBtn from 'cl-crud-export
+import ExportBtn from 'cl-crud-export'
 
 Vue.use(crud, {
 	components: {
